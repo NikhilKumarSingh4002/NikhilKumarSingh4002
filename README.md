@@ -8,5 +8,4 @@ I build secure backend systems with Spring Boot, integrated IoT architectures, a
 ### 📈 Contribution Momentum
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NikhilKumarSingh4002&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true)
 
-### 🔥 Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarSingh4002&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarSingh4002&theme=dark&cache_bust=123)
