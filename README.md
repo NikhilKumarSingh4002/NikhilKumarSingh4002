@@ -2,5 +2,6 @@
 
 I build secure backend systems with Spring Boot, integrated IoT architectures, and high-performance Java applications.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NikhilKumarSingh4002&show_icons=true&theme=dark)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarSingh4002&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=NikhilKumarSingh4002&show_icons=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilKumarSingh4002)
