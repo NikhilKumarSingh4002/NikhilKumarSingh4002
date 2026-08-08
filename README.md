@@ -1,6 +1,6 @@
 # Nikhil Kumar Singh
 
-I build secure backend systems with Spring Boot and high-performance Java applications.
+Android developer. I build secure backend systems with Spring Boot and high-performance Java applications.
 
 ### 📊 Engineering Stats
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NikhilKumarSingh4002&show_icons=true&theme=dark)
